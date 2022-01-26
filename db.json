@@ -1,0 +1,34 @@
+{
+  "bears": [
+    {
+      "bearType": "grizzly",
+      "notes": "bigbear",
+      "numBears": 3,
+      "zipCode": "90001"
+    },
+    {
+      "bearType": "grizzly",
+      "notes": "bigbear",
+      "numBears": 3,
+      "zipCode": "90001"
+    },
+    {
+      "bearType": "grizzly",
+      "notes": "bigbear",
+      "numBears": 3,
+      "zipCode": "90001"
+    },
+    {
+      "bearType": "grizzly",
+      "notes": "bigbear",
+      "numBears": 3,
+      "zipCode": "90001"
+    },
+    {
+      "bearType": "grizzly",
+      "notes": "bigbear",
+      "numBears": 3,
+      "zipCode": "90001"
+    }
+  ]
+}
